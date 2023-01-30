@@ -11,7 +11,10 @@
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_ingredient",
+    "path": "objects/obj_ingredient/obj_ingredient.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
