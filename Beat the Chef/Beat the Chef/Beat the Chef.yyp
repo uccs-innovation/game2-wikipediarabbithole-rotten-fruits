@@ -18,6 +18,7 @@
     {"id":{"name":"spr_milk","path":"sprites/spr_milk/spr_milk.yy",},"order":1,},
     {"id":{"name":"spr_test5","path":"sprites/spr_test5/spr_test5.yy",},"order":4,},
     {"id":{"name":"spr_egg","path":"sprites/spr_egg/spr_egg.yy",},"order":0,},
+    {"id":{"name":"snd_Lose","path":"sounds/snd_Lose/snd_Lose.yy",},"order":11,},
     {"id":{"name":"obj_carrot","path":"objects/obj_carrot/obj_carrot.yy",},"order":5,},
     {"id":{"name":"spr_Wall2","path":"sprites/spr_Wall2/spr_Wall2.yy",},"order":7,},
     {"id":{"name":"snd_JarBreak","path":"sounds/snd_JarBreak/snd_JarBreak.yy",},"order":3,},
