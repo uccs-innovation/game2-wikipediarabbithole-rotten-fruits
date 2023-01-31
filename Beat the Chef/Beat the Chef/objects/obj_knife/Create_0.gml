@@ -1,11 +1,11 @@
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 437AE89C
-/// @DnDArgument : "code" "/// @description Execute Code$(13_10)$(13_10)$(13_10)speed  = 10;$(13_10)alarm_set(0,20)"
+/// @DnDArgument : "code" "/// @description Execute Code$(13_10)$(13_10)$(13_10)speed  = obj_chef.currentK;$(13_10)alarm_set(0,20)"
 /// @description Execute Code
 
 
-speed  = 10;
+speed  = obj_chef.currentK;
 alarm_set(0,20)
 
 /// @DnDAction : YoYo Games.Audio.Play_Audio
