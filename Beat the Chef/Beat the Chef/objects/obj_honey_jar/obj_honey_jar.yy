@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "obj_honey_jar",
   "spriteId": {
-    "name": "spr_Wall2",
-    "path": "sprites/spr_Wall2/spr_Wall2.yy",
+    "name": "spr_honey",
+    "path": "sprites/spr_honey/spr_honey.yy",
   },
   "solid": false,
   "visible": true,

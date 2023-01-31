@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "obj_oil_jar",
   "spriteId": {
-    "name": "spr_Wall2",
-    "path": "sprites/spr_Wall2/spr_Wall2.yy",
+    "name": "spr_oil",
+    "path": "sprites/spr_oil/spr_oil.yy",
   },
   "solid": false,
   "visible": true,
