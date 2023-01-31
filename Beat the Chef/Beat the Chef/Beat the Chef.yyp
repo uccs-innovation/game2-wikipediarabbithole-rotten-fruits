@@ -41,6 +41,7 @@
     {"id":{"name":"spr_chef","path":"sprites/spr_chef/spr_chef.yy",},"order":1,},
     {"id":{"name":"obj_honey_jar","path":"objects/obj_honey_jar/obj_honey_jar.yy",},"order":0,},
     {"id":{"name":"obj_ingredient","path":"objects/obj_ingredient/obj_ingredient.yy",},"order":0,},
+    {"id":{"name":"spr_scroll","path":"sprites/spr_scroll/spr_scroll.yy",},"order":10,},
     {"id":{"name":"obj_oil_jar","path":"objects/obj_oil_jar/obj_oil_jar.yy",},"order":2,},
     {"id":{"name":"spr_oil_puddle","path":"sprites/spr_oil_puddle/spr_oil_puddle.yy",},"order":1,},
     {"id":{"name":"obj_pepper_spawn","path":"objects/obj_pepper_spawn/obj_pepper_spawn.yy",},"order":6,},
