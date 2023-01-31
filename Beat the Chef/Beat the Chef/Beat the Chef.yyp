@@ -37,7 +37,6 @@
     {"id":{"name":"spr_Bell_pepper","path":"sprites/spr_Bell_pepper/spr_Bell_pepper.yy",},"order":7,},
     {"id":{"name":"obj_game_controller","path":"objects/obj_game_controller/obj_game_controller.yy",},"order":0,},
     {"id":{"name":"spr_carrot","path":"sprites/spr_carrot/spr_carrot.yy",},"order":4,},
-    {"id":{"name":"obj_oil_jar","path":"objects/obj_oil_jar/obj_oil_jar.yy",},"order":2,},
     {"id":{"name":"spr_honey_puddle","path":"sprites/spr_honey_puddle/spr_honey_puddle.yy",},"order":0,},
     {"id":{"name":"rm_kitchen","path":"rooms/rm_kitchen/rm_kitchen.yy",},"order":0,},
   ],

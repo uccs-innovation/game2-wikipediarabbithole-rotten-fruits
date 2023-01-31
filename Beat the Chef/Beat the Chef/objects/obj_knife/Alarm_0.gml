@@ -8,5 +8,4 @@ direction = point_direction(x, y, obj_player.x, obj_player.y);
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
 /// @DnDHash : 0EF4CF55
-/// @DnDArgument : "steps" "20"
-alarm_set(0, 20);
+alarm_set(0, 30);
