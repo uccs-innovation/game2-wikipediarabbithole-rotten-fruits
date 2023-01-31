@@ -1,23 +1,5 @@
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1
-/// @DnDHash : 2315378C
-/// @DnDArgument : "var" "totalChance"
-/// @DnDArgument : "op" "1"
-/// @DnDArgument : "value" "100"
-if(totalChance < 100)
-{
-	/// @DnDAction : YoYo Games.Common.Variable
-	/// @DnDVersion : 1
-	/// @DnDHash : 3A9ED985
-	/// @DnDParent : 2315378C
-	/// @DnDArgument : "expr" "5"
-	/// @DnDArgument : "expr_relative" "1"
-	/// @DnDArgument : "var" "initKnife"
-	initKnife += 5;
-}
-
-/// @DnDAction : YoYo Games.Common.If_Variable
-/// @DnDVersion : 1
 /// @DnDHash : 13B5988F
 /// @DnDArgument : "var" "currentK"
 /// @DnDArgument : "op" "1"
