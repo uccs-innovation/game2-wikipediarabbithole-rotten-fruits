@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "obj_milk",
   "spriteId": {
-    "name": "spr_test4",
-    "path": "sprites/spr_test4/spr_test4.yy",
+    "name": "spr_milk",
+    "path": "sprites/spr_milk/spr_milk.yy",
   },
   "solid": false,
   "visible": true,

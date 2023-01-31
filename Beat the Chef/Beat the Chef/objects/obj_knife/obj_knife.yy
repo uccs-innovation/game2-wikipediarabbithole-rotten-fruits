@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "obj_knife",
   "spriteId": {
-    "name": "spr_test6",
-    "path": "sprites/spr_test6/spr_test6.yy",
+    "name": "spr_knife",
+    "path": "sprites/spr_knife/spr_knife.yy",
   },
   "solid": false,
   "visible": true,
