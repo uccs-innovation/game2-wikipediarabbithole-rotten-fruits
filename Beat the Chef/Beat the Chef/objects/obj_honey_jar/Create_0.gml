@@ -16,3 +16,11 @@ alarm_set(0, 70);
 /// @DnDArgument : "x" "obj_player.x"
 /// @DnDArgument : "y" "obj_player.y"
 direction = point_direction(x, y, obj_player.x, obj_player.y);
+
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1.1
+/// @DnDHash : 5BD3ED87
+/// @DnDArgument : "soundid" "snd_JarThrow"
+/// @DnDArgument : "pitch" ".8"
+/// @DnDSaveInfo : "soundid" "snd_JarThrow"
+audio_play_sound(snd_JarThrow, 0, 0, 1.0, undefined, .8);

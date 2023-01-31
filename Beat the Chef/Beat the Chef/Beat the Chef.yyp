@@ -8,6 +8,7 @@
     {"id":{"name":"snd_PlayerStep","path":"sounds/snd_PlayerStep/snd_PlayerStep.yy",},"order":8,},
     {"id":{"name":"obj_chef","path":"objects/obj_chef/obj_chef.yy",},"order":1,},
     {"id":{"name":"obj_egg_spawn","path":"objects/obj_egg_spawn/obj_egg_spawn.yy",},"order":2,},
+    {"id":{"name":"snd_Ouch","path":"sounds/snd_Ouch/snd_Ouch.yy",},"order":9,},
     {"id":{"name":"snd_JarThrow","path":"sounds/snd_JarThrow/snd_JarThrow.yy",},"order":4,},
     {"id":{"name":"obj_pepper","path":"objects/obj_pepper/obj_pepper.yy",},"order":3,},
     {"id":{"name":"spr_honey","path":"sprites/spr_honey/spr_honey.yy",},"order":0,},
