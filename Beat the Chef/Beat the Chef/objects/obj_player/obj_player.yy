@@ -32,6 +32,7 @@
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_honey_jar","path":"objects/obj_honey_jar/obj_honey_jar.yy",},},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_oil_jar","path":"objects/obj_oil_jar/obj_oil_jar.yy",},},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":1,"eventType":2,"collisionObjectId":null,},
   ],
   "properties": [],
   "overriddenProperties": [],
