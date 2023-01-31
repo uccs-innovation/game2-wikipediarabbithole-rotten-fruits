@@ -56,6 +56,8 @@
     {"id":{"name":"rm_kitchen","path":"rooms/rm_kitchen/rm_kitchen.yy",},"order":0,},
   ],
   "Options": [
+    {"name":"Linux","path":"options/linux/options_linux.yy",},
+    {"name":"macOS","path":"options/mac/options_mac.yy",},
     {"name":"Windows","path":"options/windows/options_windows.yy",},
     {"name":"operagx","path":"options/operagx/options_operagx.yy",},
     {"name":"Main","path":"options/main/options_main.yy",},
@@ -67,8 +69,8 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"rm_kitchen","path":"rooms/rm_kitchen/rm_kitchen.yy",},},
     {"roomId":{"name":"rm_title","path":"rooms/rm_title/rm_title.yy",},},
+    {"roomId":{"name":"rm_kitchen","path":"rooms/rm_kitchen/rm_kitchen.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy","order":12,},
