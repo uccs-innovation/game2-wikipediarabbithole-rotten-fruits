@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "obj_oil_puddle",
   "spriteId": {
-    "name": "spr_test2",
-    "path": "sprites/spr_test2/spr_test2.yy",
+    "name": "spr_oil_puddle",
+    "path": "sprites/spr_oil_puddle/spr_oil_puddle.yy",
   },
   "solid": false,
   "visible": true,

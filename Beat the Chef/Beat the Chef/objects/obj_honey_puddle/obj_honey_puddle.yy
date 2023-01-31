@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "obj_honey_puddle",
   "spriteId": {
-    "name": "spr_test1",
-    "path": "sprites/spr_test1/spr_test1.yy",
+    "name": "spr_honey_puddle",
+    "path": "sprites/spr_honey_puddle/spr_honey_puddle.yy",
   },
   "solid": false,
   "visible": true,
