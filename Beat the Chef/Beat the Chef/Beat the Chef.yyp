@@ -43,6 +43,7 @@
     {"id":{"name":"spr_onion","path":"sprites/spr_onion/spr_onion.yy",},"order":2,},
     {"id":{"name":"spr_title","path":"sprites/spr_title/spr_title.yy",},"order":0,},
     {"id":{"name":"obj_tomato","path":"objects/obj_tomato/obj_tomato.yy",},"order":8,},
+    {"id":{"name":"obj_kitchen_controller","path":"objects/obj_kitchen_controller/obj_kitchen_controller.yy",},"order":2,},
     {"id":{"name":"obj_egg","path":"objects/obj_egg/obj_egg.yy",},"order":1,},
     {"id":{"name":"snd_KnifeHit","path":"sounds/snd_KnifeHit/snd_KnifeHit.yy",},"order":5,},
     {"id":{"name":"spr_test4","path":"sprites/spr_test4/spr_test4.yy",},"order":3,},
@@ -124,10 +125,10 @@
     {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},
   ],
   "TextureGroups": [
-    {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","isScaled":true,"compressFormat":"bz2","loadType":"default","directory":"","autocrop":true,"border":2,"mipsToGenerate":0,"groupParent":null,"targets":-1,},
+    {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","isScaled":true,"compressFormat":"bz2","autocrop":true,"border":2,"mipsToGenerate":0,"groupParent":null,"targets":-1,},
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2022.11.1.56",
+    "IDEVersion": "2022.8.0.34",
   },
 }
