@@ -95,6 +95,9 @@
 21,22,23,21,22,23,21,31,32,30,31,32,30,31,32,30,31,32,30,31,32,30,31,32,30,31,32,30,31,32,30,31,32,30,31,32,30,31,32,30,31,32,30,31,32,30,31,32,30,31,32,30,31,32,
 30,31,32,30,31,32,30,-54,17,],},"visible":true,"depth":600,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","spriteId":null,"colour":4278190080,"x":0,"y":0,"htiled":false,"vtiled":false,"hspeed":0.0,"vspeed":0.0,"stretch":false,"animationFPS":15.0,"animationSpeedType":0,"userdefinedAnimFPS":false,"visible":true,"depth":700,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
+    {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Recipe","instances":[
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_57346EC","properties":[],"isDnd":false,"objectId":{"name":"obj_recipe","path":"objects/obj_recipe/obj_recipe.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":0.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":128.0,"y":192.0,},
+      ],"visible":true,"depth":800,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
   ],
   "inheritLayers": false,
   "creationCodeFile": "",
@@ -129,6 +132,7 @@
     {"name":"inst_648C70D","path":"rooms/rm_kitchen/rm_kitchen.yy",},
     {"name":"inst_AC96FD7","path":"rooms/rm_kitchen/rm_kitchen.yy",},
     {"name":"inst_1E2C4422","path":"rooms/rm_kitchen/rm_kitchen.yy",},
+    {"name":"inst_57346EC","path":"rooms/rm_kitchen/rm_kitchen.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
