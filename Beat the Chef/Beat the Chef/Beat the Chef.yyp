@@ -24,6 +24,7 @@
     {"id":{"name":"snd_JarBreak","path":"sounds/snd_JarBreak/snd_JarBreak.yy",},"order":3,},
     {"id":{"name":"spr_knife","path":"sprites/spr_knife/spr_knife.yy",},"order":2,},
     {"id":{"name":"obj_oil_puddle","path":"objects/obj_oil_puddle/obj_oil_puddle.yy",},"order":1,},
+    {"id":{"name":"spr_tut","path":"sprites/spr_tut/spr_tut.yy",},"order":1,},
     {"id":{"name":"obj_lost","path":"objects/obj_lost/obj_lost.yy",},"order":7,},
     {"id":{"name":"TileSet","path":"sprites/TileSet/TileSet.yy",},"order":0,},
     {"id":{"name":"snd_KnifeThrow","path":"sounds/snd_KnifeThrow/snd_KnifeThrow.yy",},"order":6,},
@@ -54,6 +55,7 @@
     {"id":{"name":"spr_chef","path":"sprites/spr_chef/spr_chef.yy",},"order":1,},
     {"id":{"name":"obj_honey_jar","path":"objects/obj_honey_jar/obj_honey_jar.yy",},"order":0,},
     {"id":{"name":"snd_ting","path":"sounds/snd_ting/snd_ting.yy",},"order":10,},
+    {"id":{"name":"rm_instructions","path":"rooms/rm_instructions/rm_instructions.yy",},"order":3,},
     {"id":{"name":"obj_ingredient","path":"objects/obj_ingredient/obj_ingredient.yy",},"order":0,},
     {"id":{"name":"spr_scroll","path":"sprites/spr_scroll/spr_scroll.yy",},"order":10,},
     {"id":{"name":"snd_OilWalk","path":"sounds/snd_OilWalk/snd_OilWalk.yy",},"order":7,},
@@ -92,6 +94,7 @@
     {"roomId":{"name":"rm_title","path":"rooms/rm_title/rm_title.yy",},},
     {"roomId":{"name":"rm_kitchen","path":"rooms/rm_kitchen/rm_kitchen.yy",},},
     {"roomId":{"name":"rm_win","path":"rooms/rm_win/rm_win.yy",},},
+    {"roomId":{"name":"rm_instructions","path":"rooms/rm_instructions/rm_instructions.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy","order":12,},
