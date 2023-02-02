@@ -15,7 +15,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "snd_Lose.ogg",
-  "duration": 3.999002,
+  "duration": 1.668141,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
